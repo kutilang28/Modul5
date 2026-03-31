@@ -6,8 +6,15 @@ namespace Modul5_103022400129
         static void Main(string[] args)
         {
             PemrosesData pd = new PemrosesData();
-            long s = pd.DapatkanNilaiTerbesar<long>(10, 04, 09);
+            long s = pd.DapatkanNilaiTerbesar<long>(10, 30, 09);
             Console.WriteLine("Nilai terbesar " + s);
+
+            SimpleDatabase<int> obj = new SimpleDatabase<int>();
+            obj.AddNewData(12);
+            obj.AddNewData(34);
+            obj.AddNewData(56);
+
+            obj.PrintAllData();
         }
     }
 }
