@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Modul5_103022400129\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3680CC8A-47A1-46FA-9A11-82B7B31EE459}|Modul5_103022400129.csproj|d:\\modul5_103022400129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3680CC8A-47A1-46FA-9A11-82B7B31EE459}|Modul5_103022400129.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BEDC976-4961-BF5C-968C-1861D5DF0350}|Modul5_103022400129.csproj|d:\\modul5_103022400129\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEDC976-4961-BF5C-968C-1861D5DF0350}|Modul5_103022400129.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEDC976-4961-BF5C-968C-1861D5DF0350}|Modul5_103022400129.csproj|d:\\modul5_103022400129\\simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEDC976-4961-BF5C-968C-1861D5DF0350}|Modul5_103022400129.csproj|solutionrelative:simpledatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleDatabase.cs",
+              "DocumentMoniker": "D:\\Modul5_103022400129\\SimpleDatabase.cs",
+              "RelativeDocumentMoniker": "SimpleDatabase.cs",
+              "ToolTip": "D:\\Modul5_103022400129\\SimpleDatabase.cs",
+              "RelativeToolTip": "SimpleDatabase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:46:56.865Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Modul5_103022400129\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T23:50:42.612Z",
               "EditorCaption": ""
